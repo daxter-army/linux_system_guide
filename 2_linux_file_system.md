@@ -61,7 +61,7 @@
     2. relative path 
 
 * Absolute path starts from root dir
-* */home/daxter-army/documents/mail.md*
+> */home/daxter-army/documents/mail.md*
 
 * Relative path starts from current dir, lets say your current dir is *./daxter-army*
-* *./documents/mail.md*
+> *./documents/mail.md*
