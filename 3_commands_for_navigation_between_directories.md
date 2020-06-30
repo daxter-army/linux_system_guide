@@ -5,6 +5,7 @@
 * **ls** */* - list contents of root dir
 * **ls** *~* - list contents of home dir
 * **ls** *..* - list contents of parent dir
+
 * **cd** */* - go at root dir
 * **cd** *~* - go to home
 * **cd** *..* - go to parent dir
