@@ -1,3 +1,5 @@
+# Basic Commands
+
 * **date** - prints current system date
 * **cal** - prints current month
 * **cal** *-y* - prints current year
