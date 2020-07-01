@@ -10,5 +10,7 @@
 * **rm** *-f* *<file_name>* - delete a file, **forcefully**
 * *this will ignore non-existent files, will not raise an error*
 
-* **rm** *-v* - 
+* **rm** *-v* - *v*, stands for verbose, it gives summary of your command
+
+* **rm -R <file_name> <dir_name>** - to delete a file and a folder together
 
