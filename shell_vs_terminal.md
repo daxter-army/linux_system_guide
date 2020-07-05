@@ -17,7 +17,8 @@
 * On the other hand, The **Terminal** is just a graphical interface to the shell. In other words, we access the shell through our **terminal** in a GUI (Graphical User Interface) environment.
 
 * Historically, The Terminal was a physical device that connects to a computer, usually over serial cable or modem. Like the picture below -
-[! physical terminal](terminal.jpeg "Physical Terminal")
+<!-- [! physical terminal](terminal.jpeg "Physical Terminal") -->
+<img src="./terminal.jpeg" title="Physical Terminator alt="terminal img">
 
 * But nowadays, when someone says a Terminal, he really means a Terminal emulator. The word emulator here means imitate. That's to say that it's a software (Program) that imitates the physical device that was once called a Terminal.
 
